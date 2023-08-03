@@ -30,7 +30,7 @@ public class SpringBootRestApiApplication {
 		int i = 10;
 		
 		int j = 20;
-		return "Welcome To Ashok IT..!!";
+		return "Welcome To Primus learning..!!";
 	}
 	
 	private void m1 () {
